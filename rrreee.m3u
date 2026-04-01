@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  REKAWT ",BahraHD
 http://51.89.152.180/live/BahraHD/chunks.m3u8
-#EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  REKAWT ",vdtest
+#EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="Movies",vdtest
 https://vz-f38d9792-ce5.b-cdn.net/7320c519-49cb-4720-b9d6-afa52ecd3523/playlist.m3u8
