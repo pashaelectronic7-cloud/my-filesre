@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  REKAWT ",BahraHD
 http://51.89.152.180/live/BahraHD/chunks.m3u8
-#EXTINF: tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="Movies",vdtest
-https://vz-f38d9792-ce5.b-cdn.net/b5357e83-124b-48ca-a944-bd6c46afda55/playlist.m3u8
+#EXTINF: tvg-name="film" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="Movies",vdtest
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
+https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
