@@ -4,3 +4,7 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF: tvg-name="film" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="Movies",vdtest
 #EXTINF:-1 tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
 https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
+https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
+#EXTINF:tvg-name="Parwarda TV" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  REKAWT ",Parwarda TV
+https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v1a1/mono.m3u8
