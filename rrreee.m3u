@@ -1,2 +1,4 @@
 #EXTM3U
 #EXTINF:0 CUID="8524" tvg-name="KURDMAX سۆرانی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="(B)  KURDISH ",KURDMAX سۆرانی
+#EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  KURDISH ",BahraHD
+http://51.89.152.180/live/BahraHD/chunks.m3u8
