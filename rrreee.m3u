@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="(B)  KURDISH ",BahraHD
 http://51.89.152.180/live/BahraHD/chunks.m3u8
-#EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="(B)  KURDISH ",NRT 2
-https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=
